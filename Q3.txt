@@ -1,0 +1,12 @@
+3. One-Line Answers (Answers to be written on .txt file)- 
+    A. What is reverse-i-search in a Linux terminal? 
+    Ans:- It is used to search past commands, in order to activate it we press 'Ctrl' + 'r' and then type in a query to find matches. Hit 'Ctrl' + 'r' again to find the next match.
+
+    B. How do you list out the hidden directories using Linux command line tool?
+    Ans:- Generally we use 'ls' to find folders and files within a terminal. In order to find all the hidden files or folders we use '-a' flag with 'ls' command. 'ls -a' like this.
+
+    C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+    Ans:- Quite comfortable. 
+
+    D. Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)? 
+    Ans:- No.
